@@ -5,8 +5,8 @@
 ---
 
 ## Week 1 — Python Foundation
-- [ ] Install Python and set up virtual env (venv / conda)
-- [ ] Learn basic syntax, data types, OOP basics and exceptions
+- [X] Install Python and set up virtual env (venv / conda)  
+- [X] Learn basic syntax, data types, OOP basics and exceptions
 - [ ] Use Git, create GitHub account, push first repo
 
 **📦 Project:** Simple CLI calculator repo
